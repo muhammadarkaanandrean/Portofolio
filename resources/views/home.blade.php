@@ -30,10 +30,10 @@
     // GANTI dengan data aslimu
     $education = [
         ['S1 Informatika','Universitas Teknokrat Indonesia','2024 – Sekarang',['Fokus pada UI/UX, desain digital, dan pengembangan aplikasi.','Aktif mengerjakan proyek praktikum dan tugas kuliah.']],
-        ['SMA / SMK','Nama Sekolah Kamu','2021 – 2024',['Tulis jurusan dan pencapaian singkatmu di sini.']],
+        ['SMA','SMA Negeri 8 Bandar Lampung','2021 – 2024',['Mengikuti kegiatan ekstrakurikuler bola voli.']],
     ];
     $experience = [
-        ['Anggota Organisasi','Nama Organisasi Kampus','2025 – Sekarang',['Tulis tugas atau peran utamamu.','Tulis hasil atau kontribusi yang bisa diukur.']],
+        ['Anggota Ekstrakurikuler','Voli SMANPAN','2022 – 2024',['Menjabat sebagai Wakil Ketua Ekstrakurikuler Voli SMANPAN.','Ikutserta dalam membangun tim voli yang solid.']],
         ['Panitia Kegiatan','Nama Kegiatan / Kepanitiaan','2025',['Tulis bagian yang kamu tangani.']],
     ];
     $certificates = [
